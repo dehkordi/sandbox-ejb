@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="SampleEAPEAR">
+        <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
+        <dependent-module archiveName="SampleEAP.jar" deploy-path="/" handle="module:/resource/SampleEAP/SampleEAP">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="SampleEJBPrj.jar" deploy-path="/" handle="module:/resource/SampleEJBPrj/SampleEJBPrj">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="SampleEJBPrjClient.jar" deploy-path="/" handle="module:/resource/SampleEJBPrjClient/SampleEJBPrjClient">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>

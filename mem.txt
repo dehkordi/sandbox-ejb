@@ -1,0 +1,10 @@
+java:global/SampleEAPEAR/SampleEJBPrj/SampleBean!org.dehkordi.sandbox.ejb.SampleBean, 
+java:global/SampleEAPEAR/SampleEJBPrj/SampleBean!org.dehkordi.sandbox.ejb.SampleBeanRemote
+
+java:global/SampleEAPEAR/SampleEJBPrj/MySingeltonEJB!org.dehkordi.sandbox.ejb.SingeltonBeanRemote
+java:global/SampleEAPEAR/SampleEJBPrj/MySingeltonEJB!org.dehkordi.sandbox.ejb.SingeltonBean]
+
+
+
+mahmud.akbarpurdehkordi@firstdata.com
+f4w0f1q
